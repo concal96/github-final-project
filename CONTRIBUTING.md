@@ -7,3 +7,5 @@ Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approacha
 ## New contributor guide
 
 To get an overview of the project, read the [README](README.md).
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
